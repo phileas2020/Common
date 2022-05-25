@@ -1,0 +1,17 @@
+{
+    "name": "XLuaGenerator",
+    "references": [
+        "GUID:48e2ef05e138c1f40b63977e5118f694"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
